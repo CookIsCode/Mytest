@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-    printf("Hello,Github.I am new computer operator\n");
+    printf("This is test progame of windows system\n");
     return 0;
 }
 
